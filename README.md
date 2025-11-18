@@ -2,6 +2,9 @@
 
 ```
 **** THIS IS SAMPLE CODE ****
+There is no support for this code, Do not try to contact the author
+
+
 Copyright (c) 2025 Pageplanner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -47,10 +50,11 @@ read any error messages from Python to know which modules need to be installed
 
 I have found that ChatGPT is helpful in troubleshooting Python scripts.
 
-## Helpful Vestaboard URLs
+## Helpful URLs
 
 * Vestaboard Character Codes: https://docs-v1.vestaboard.com/characters
 * Vestaboard Local API: https://docs.vestaboard.com/docs/local-api/introduction
 * Vestaboard Read/Write API: https://docs.vestaboard.com/docs/read-write-api/introduction
-* yfinance Pythion module: https://pypi.org/project/yfinance/
+* yfinance Pythion Library: https://pypi.org/project/yfinance/
+* tqdm progress-bar Python Library: https://github.com/tqdm/tqdm
 
