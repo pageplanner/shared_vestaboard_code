@@ -2,12 +2,25 @@
 
 ```
 **** THIS IS SAMPLE CODE ****
-THIS CODE IS OPEN SOURCE
-IT MAY NOT WORK
-THERE IS NO GUARANTEE
-THERE IS NO SUPPORT
-THE PROVIDER WILL NOT BE RESPONSIBLE FOR ANY PROBLEMS
-```
+Copyright (c) 2025 Pageplanner
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.```
 
 * To use this code, you will need to download it to a computer that has Python installed.  I have used it on Windows and Linux 
 * The vestaboard.py file contains common functions that are used byu the other Python scripts in this directory
@@ -15,5 +28,5 @@ THE PROVIDER WILL NOT BE RESPONSIBLE FOR ANY PROBLEMS
 * If you choose to use the local API, you'll need to open a support ticket with Vestaboard support to enable the API, then you'll need to create a file called vb.key and paste the API key provided by Vestaboard
 * If you prefer to use the Vestaboard internet-based Read/Write API, you will need to update the vb.url file, vb.key file and call_vestaboard_api subroutine in vestaboard.py
 
-* To use the ticker.py Stock Ticker example, you will need to install the lates version of the yfinance Pythion module; https://pypi.org/project/yfinance/
+* To use the ticker.py Stock Ticker example, you will need to install the lates version of the [yfinance Pythion module](https://pypi.org/project/yfinance/)
 * You may also need to use "pip install" to install any modules missing on your computer, read any error messages from Python to know which modules need to be installed
