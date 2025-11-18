@@ -30,7 +30,7 @@ SOFTWARE.
 
 To use this code, you will need to download it to a computer that has Python installed.  I have used it with Python 3 on Windows and Linux 
 
-The vestaboard.py file contains common functions that are used byu the other Python scripts in this directory
+The vestaboard.py file contains common functions that are used by the other Python scripts in this directory
 
 It is currently set up to use the Local API, so it will communicate directly to your Vestabaord without connecting to Vestaboard over the internet.
 The API address in the vb.url file will need to be updated with your board's IP address
