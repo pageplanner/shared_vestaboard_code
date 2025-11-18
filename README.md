@@ -1,10 +1,12 @@
 # Shared Vestaboard Example Code
 
-```### THIS CODE IS OPEN SOURCE
-### IT MAY NOT WORK
-### THERE IS NO GUARANTEE
-### THERE IS NO SUPPORT
-### THE PROVIDER WILL NOT BE RESPONSIBLE FOR ANY PROBLEMS
+```
+**** THIS IS SAMPLE CODE ****
+THIS CODE IS OPEN SOURCE
+IT MAY NOT WORK
+THERE IS NO GUARANTEE
+THERE IS NO SUPPORT
+THE PROVIDER WILL NOT BE RESPONSIBLE FOR ANY PROBLEMS
 ```
 
 * To use this code, you will need to download it to a computer that has Python installed.  I have used it on Windows and Linux 
