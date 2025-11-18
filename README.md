@@ -42,3 +42,10 @@ Pythion module https://pypi.org/project/yfinance/
 
 You may also need to use "pip install" to install any modules missing on your computer,
 read any error messages from Python to know which modules need to be installed
+
+Helpful Vestaboard URLs
+
+Vestaboard Character Codes: https://docs-v1.vestaboard.com/characters
+Vestaboard Local API: https://docs.vestaboard.com/docs/local-api/introduction
+Vestaboard Read/Write API: https://docs.vestaboard.com/docs/read-write-api/introduction
+
