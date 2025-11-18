@@ -37,15 +37,15 @@ If you prefer to use the Vestaboard internet-based Read/Write API, you will need
 vb.url file, vb.key file and call_vestaboard_api subroutine in vestaboard.py
 
 
-To use the ticker.py Stock Ticker example, you will need to install the latest version of the yfinance
-Pythion module https://pypi.org/project/yfinance/
+To use the ticker.py Stock Ticker example, you will need to install the latest version of the yfinance Pythion module 
 
 You may also need to use "pip install" to install any modules missing on your computer,
 read any error messages from Python to know which modules need to be installed
 
 Helpful Vestaboard URLs
 
-Vestaboard Character Codes: https://docs-v1.vestaboard.com/characters
-Vestaboard Local API: https://docs.vestaboard.com/docs/local-api/introduction
-Vestaboard Read/Write API: https://docs.vestaboard.com/docs/read-write-api/introduction
+* Vestaboard Character Codes: https://docs-v1.vestaboard.com/characters
+* Vestaboard Local API: https://docs.vestaboard.com/docs/local-api/introduction
+* Vestaboard Read/Write API: https://docs.vestaboard.com/docs/read-write-api/introduction
+* yfinance Pythion module: https://pypi.org/project/yfinance/
 
